@@ -1,0 +1,189 @@
+/* header {
+header p {
+font-style: italic;
+color: #555;
+margin-top: 5px;
+font-size: 50px;
+}
+header:hover{
+    background-color: #0a0a0a;
+   
+}
+/* img{
+    border-radius: 40px;
+   
+} */
+/* .row{
+    text-align:center;
+    font-size: 40px;
+    border-radius: 20px;
+    background-color: brown;
+}
+.yoo{
+    width: 600px;
+  background-color: #555;
+  padding: 30px; 
+  border-radius: 50px; 
+  text-align: center;
+  padding: 40px;    
+}
+button{
+background-color: aqua;
+padding: 10px;
+border-radius: 10px;
+
+}
+.yood img {
+ width: 500px;
+ height:400px;
+  background-color: #555;
+  padding: 30px; 
+  border-radius: 50px; 
+  text-align: center;
+ 
+ 
+}
+
+h2{
+    
+    text-align: center;
+}
+.naira{
+    color: aliceblue;
+}
+.mainsha{
+    background-color: grey;
+    border:2px solid rgb(240, 2, 2); 
+    padding: 5px;
+    
+    
+}
+.joo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  */
+
+
+
+ body { 
+  background:brown;
+  color:yellow;
+  line-height: 1.6;
+}
+ header {
+
+    background-color: rgb(233, 220, 202);       
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #0a0a0a; 
+    border-radius: 40px;
+}  
+
+header h1 {
+font-size: 60px;
+color: #2c3e50;
+}
+header p {
+font-style: italic;
+color: #555;
+margin-top: 5px;
+font-size:40px;
+}
+header:hover{
+    background-color: #0a0a0a;
+   
+}
+
+.row h2 {
+  text-align: center;
+  margin: 30px 0 15px;
+  font-size: 28px;
+  color: #b30059;
+}
+
+
+.joo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 25px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+
+.yoo {
+  background:grey;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+
+.yoo:hover {
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+
+.yood img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+
+
+.yoo h1 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.yoo h3 {
+  margin: 12px 0 8px;
+  color:black;
+  font-size: 30px;
+}
+
+
+.yoo ul, .yoo ol {
+  margin-left: 20px;
+  margin-bottom: 12px;
+}
+
+.yoo li {
+  margin-bottom: 6px;
+}
+
+
+.yoo button {
+  display: block;
+  margin: 10px 0 15px;
+  padding: 10px 18px;
+  background: #ff4d79;
+  border: none;
+  border-radius: 25px;
+ 
+}
+
+.yoo button:hover {
+  background: #e6005c;
+}
+.yoo button a {
+  text-decoration: none;
+  color:black;
+  font-weight: bold;
+}
+ footer{
+  background-color:rgb(233, 220, 202);
+  padding: 20px;
+  border: 2px solid #0a0a0a;
+  text-align: center;
+  font-size: 40px;
+  border-radius: 40px;
+ }
+ footer:hover{
+  background-color: #0a0a0a;
+ }
+
